@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached on the 8. day of May 1615. in the parish Church of S. Stephen in Walbrooke London. At an anniuersarie solemnitie and assemblie of the Companie of Grocers of London. In commemoration of their ancient and first beginning to be a companie. By R.F. Doctor in Diuinitie</title>
+            <author>Fenton, Roger, 1565-1616.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13539</idno>
+            <idno type="STC">STC 10802</idno>
+            <idno type="STC">ESTC S115027</idno>
+            <idno type="EEBO-CITATION">99850247</idno>
+            <idno type="PROQUEST">99850247</idno>
+            <idno type="VID">15436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 794:09, 885:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached on the 8. day of May 1615. in the parish Church of S. Stephen in Walbrooke London. At an anniuersarie solemnitie and assemblie of the Companie of Grocers of London. In commemoration of their ancient and first beginning to be a companie. By R.F. Doctor in Diuinitie</title>
+                  <author>Fenton, Roger, 1565-1616.</author>
+               </titleStmt>
+               <extent>[10], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Eliot's Court Press?] for William Aspley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name suggested by STC.</note>
+                  <note>Identified as STC 10803 on UMI microfilm, reel 794.</note>
+                  <note>Reproductions of the originals in the British Library and in the Bodleian Library.</note>
+                  <note>Appears at reel 794 (British Library copy) and at reel 885 (Bodleian copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grocers' Company (London, England) --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15436:1"/>
+            <pb facs="tcp:15436:1"/>
+            <p>A SERMON Preached on the 8. day <hi>of May</hi> 1615. <hi>in the Pariſh-</hi>Church of S. STEPHEN in Walbrooke London.</p>
+            <p>
+               <hi>At an anniuerſarie Solem<g ref="char:EOLhyphen"/>
+               </hi>nitie and aſſemblie of the Companie of Grocers of LONDON.</p>
+            <p>In commemoration of their <hi>ancient and firſt beginning</hi> to be a Companie.</p>
+            <p>BY <hi>R. F.</hi> DOCTOR in Diuinitie.</p>
+            <p>LONDON Printed for <hi>William Aſpley.</hi>
+            </p>
+            <p>1615.</p>
+            <pb facs="tcp:15436:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:15436:2"/>
+            <head>
+               <hi>TO THE Right Worſhipfull</hi> and his ſingular good <hi>PATRONS, the Companie of the GROCERS.</hi>
+            </head>
+            <head type="sub">
+               <hi>R. F.</hi> Wiſheth the <hi>increaſe of all peace and happineſſe.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight worſhip<g ref="char:EOLhyphen"/>full, although it be much a<g ref="char:EOLhyphen"/>gainſt my diſpoſition,
+<pb facs="tcp:15436:3"/> who preach ſo often, to commit any one Ser<g ref="char:EOLhyphen"/>mon to the publike view, eſpecially this, whereof I haue as meane conceit as of the reſt ordinarily de<g ref="char:EOLhyphen"/>liuered. Notwithſtan<g ref="char:EOLhyphen"/>ding, if it may giue any ſatisfaction, I doe humbly intreat, that you would be pleaſed to accept of ſo ſmall a teſtimonie of my greater thankefulneſſe. To whom as I acknow<g ref="char:EOLhyphen"/>ledge
+<pb facs="tcp:15436:3"/> my ſelfe much obliged, ſo ſhall I euer be readie to render a farre greater ſignifi<g ref="char:EOLhyphen"/>cation of my dutie. And albeit this ſub<g ref="char:EOLhyphen"/>iect deſerueth to bee amplified much more then my leaſure in the throng of other buſi<g ref="char:EOLhyphen"/>neſſe would at this time permit: yet vn<g ref="char:EOLhyphen"/>derſtanding of a ru<g ref="char:EOLhyphen"/>mour ſpread, as if vpon conference with ſome, I ſhould beginne
+<pb facs="tcp:15436:4"/> to alter my minde; I haue choſen rather to ſet it downe word for word as it was at that time vttered, then to enlarge any branch of it. I laboured moſt to deliuer the naked truth in this point, without ornament of ſpeech: ſuch nakedneſſe is ne<g ref="char:EOLhyphen"/>uer to bee aſhamed. Thus deſiring Almigh<g ref="char:EOLhyphen"/>tie God that the ſim<g ref="char:EOLhyphen"/>ple truth may ſo worke vpon the conſciences
+<pb facs="tcp:15436:4"/> of euery one for the eſtabliſhing of peace, order, and gouernment amongst vs, that we may haue a moſt ten<g ref="char:EOLhyphen"/>der care of all ſuch Oathes from that Oath of Allegeance to his Maieſtie, to the Oathes taken by the meaneſt Church-Wardens in our pariſhes: I doe humbly commend you in my praiers to the gratious protection of the Almightie.</p>
+            <pb facs="tcp:15436:5"/>
+            <closer>
+               <dateline>From <hi>S. Stephens Walbrooke, Lon<g ref="char:EOLhyphen"/>don.</hi> 
+                  <date>May 25. 1615.</date>
+               </dateline>
+               <signed>R. F.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:15436:5"/>
+            <epigraph>
+               <bibl>HEB. 6. 16.</bibl>
+               <q>For men verily ſweare by him that is greater: an Oath amongst them is an end of all ſtrife.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>N oath is the ſtrongeſt co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>firmation of a truth auerred, and the moſt religious ob<g ref="char:EOLhyphen"/>ligation of any thing promiſed that is to be
+<pb n="2" facs="tcp:15436:6"/> found vnder heauen. So holy, that God hath hallowed it no otherwiſe then his owne Sabaoth both by precept and exam<g ref="char:EOLhyphen"/>ple. For as the fourth Co<g ref="char:cmbAbbrStroke">̄</g>mandement is not only ſanctified by di<g ref="char:EOLhyphen"/>uine precept, <hi>Remem<g ref="char:EOLhyphen"/>ber thou keepe holy the Sabaoth day,</hi> but by Gods owne example, <hi>Hee reſted the ſeuenth day, wherefore the Lord bleſſed the ſeuenth day and hallowed it.</hi> In like manner this affirmi<g ref="char:EOLhyphen"/>tiue part of the third Commaundement is
+<pb n="3" facs="tcp:15436:6"/> ſanctified by precept as a part of Gods wor<g ref="char:EOLhyphen"/>ſhippe, <hi>Eſſ.</hi> 45. 23. <hi>E<g ref="char:EOLhyphen"/>uery knee ſhall bow to me, and euery tongue ſhall ſweare by me.</hi> And at the 13. verſ. before my text, wee haue his owne practice and ex<g ref="char:EOLhyphen"/>ample: where he con<g ref="char:EOLhyphen"/>firmeth his promiſe to <hi>Abraham</hi> by an Oath, As is the inſtitution, ſo is the forme, and end of an Oath: for wee ſweare by a greater then our ſelues, to the end that ſuch ſwering may bee a preſent re<g ref="char:EOLhyphen"/>medie againſt all ſtrife
+<pb n="4" facs="tcp:15436:7"/> and contention a<g ref="char:EOLhyphen"/>mongſt vs. Let theſe be the two parts of my text, <hi>The forme</hi> and the <hi>end of an Oath.</hi>
+               <list>
+                  <item>1 The Forme, <hi>That men ſweare by a greater.</hi>
+                  </item>
+                  <item>2 The End, <hi>That it makes an end of all ſtrife.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1 This greater, by whom men ſweare, is no leſſe then God himſelfe, for in <hi>Ier.</hi> 5. 7. God chalengeth thoſe <hi>who ſweare by them that be no Gods.</hi> An Oath therefore is the inuo<g ref="char:EOLhyphen"/>cation of the name of God, reuerend and holie then is an Oath,
+<pb n="5" facs="tcp:15436:7"/> becauſe reuerend and holy is his name; So deepely is this point imprinted in the harts of men, that naturall Religion hath taught the very Heathen themſelues, to ſweare by their gods, as <hi>La<g ref="char:EOLhyphen"/>ban</hi> ſware by the <hi>God of Nahor,</hi> but <hi>Iacob,</hi> by <hi>the feare of Iſaake,</hi> that is by the true God <note place="margin">
+                  <hi>Gen.</hi> 31. 53.</note> whom <hi>Iſaake</hi> his father worſhiped.</p>
+            <p>This point alſo is expreſſed, by the very ceremonie of an Oath: <hi>Ioſeph</hi> put his hand vnder <hi>Iacobs</hi> thigh,
+<pb n="6" facs="tcp:15436:8"/> and the ſeruant of <hi>A<g ref="char:EOLhyphen"/>braham</hi> vnder the thigh of his Maſter. Becauſe (as <hi>S. Auguſt:</hi> and <hi>Ambros</hi> expounds it) God our Sauiour was to proceed out of the loines of <hi>Abraham, Iſaake,</hi> and <hi>Iacob;</hi> and as of old they put their hands, vnder the thigh of thoſe Patri<g ref="char:EOLhyphen"/>arches of whom Chriſt was then to come: ſo to the ſame purpoſe do Chriſtians lay their hands vpon ſome part of that ſa<g ref="char:EOLhyphen"/>cred booke wherein Chriſt is reuealed. By
+<pb n="7" facs="tcp:15436:8"/> ſuch like ceremonies do we ſignifie that we ſweare by a greater, and that greater to be no other then God, and our Sauiour.</p>
+            <p>The 3 grounds or reaſons of inuocating the name of God in an Oath as they do naturally riſe of that terme of my text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſo will they cleere the way vnto that which fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p n="1">1 Men by ſin haue loſt their credit, and therefore doe they pawne the credit of
+<pb n="8" facs="tcp:15436:9"/> him who is truth it ſelfe. And in caſe of neceſſitie for want of other ſufficient pledge God doth vouchſafe to pledge his truth for honeſt men that mean well, The truth and credit of God is grea<g ref="char:EOLhyphen"/>ter then mans, and therefore men ſweare by him, as by a grea<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="2">2 An Oath is the manifeſtation of a ſe<g ref="char:EOLhyphen"/>cret truth or intention of the heart for to ſweare in things mani<g ref="char:EOLhyphen"/>feſt, is the taking of the name of God in vaine.
+<pb n="9" facs="tcp:15436:9"/> But God alone is the knower of the heart and reynes, therefore he onely muſt teſtifie, that which is perfect<g ref="char:EOLhyphen"/>ly knowne to none but him. He is greater in knowledge then man, in knowledge of ſe<g ref="char:EOLhyphen"/>cret thoughts and things that are moſt hidden, therefore man ſweareth by him as by the greater.</p>
+            <p n="3">3 If a man ſhall for<g ref="char:EOLhyphen"/>ſweare himſelfe, or vi<g ref="char:EOLhyphen"/>olate his Oath, the wrong is done direct<g ref="char:EOLhyphen"/>ly vnto God. His truth is falſified, his
+<pb n="10" facs="tcp:15436:10"/> name is abuſed in the higheſt degree. Great reaſon therefore that he ſhould be iudge in that caſe. To redeeme his ſacred name by ta<g ref="char:EOLhyphen"/>king vengeance vp<g ref="char:EOLhyphen"/>on periured perſons. From this ground it ariſeth that the Maie<g ref="char:EOLhyphen"/>ſtie of God is called vpon in an Oath. <hi>Vt teſtis &amp; vindex.</hi> And therefore as God doth pawne his ſacred name for our credit, ſo doe we lay in a counter<g ref="char:EOLhyphen"/>pawne of our ſaluati<g ref="char:EOLhyphen"/>on, or of ſomewhat that is deareſt vnto vs
+<pb n="11" facs="tcp:15436:10"/> for our fidelitie. Which we muſt for<g ref="char:EOLhyphen"/>feit if wee keepe not our Oath.</p>
+            <p>The Apoſtle hath giuen an inſtance of a perfect forme in this kinde, 2. <hi>Cor.</hi> 1. 23. <hi>I call God to record vpon my Soule.</hi> There is God <hi>Teſtis &amp; Vindex, I call God to record,</hi> there is Gods pawne for <hi>Paul</hi>
+            </p>
+            <p>
+               <hi>Vpon my Soul,</hi> There is <hi>Pauls</hi> counterpawne for his ſidelitie. <hi>In ani<g ref="char:EOLhyphen"/>mam meam,</hi> vpon the perill of mine owne ſoule be it if I falſifie Gods record. If <hi>Paul</hi>
+               <pb n="12" facs="tcp:15436:11"/> now had abuſed the teſtimony of God, he had forfeited his own ſoule.</p>
+            <p>This forfeiture was of old expreſſed by <hi>God doe ſo to mee and more alſo,</hi> or ſuch like formes of execration. Now is it giuen for the concluſion of our ſolemne Oathes. <hi>So help you God.</hi>
+            </p>
+            <p>By this I hope you conceiue the forme, and by the forme, the nature of an Oath, together with the rea<g ref="char:EOLhyphen"/>ſons why wee ſweare only by the name of
+<pb n="13" facs="tcp:15436:11"/> God as the greater.</p>
+            <p>Greater in name and credit, that his Credit might ſupplie the de<g ref="char:EOLhyphen"/>fects in ours.</p>
+            <p>Greater in the know<g ref="char:EOLhyphen"/>ledge of ſecrets, that he might teſtifie the ſim<g ref="char:EOLhyphen"/>ple intentions of our hearts.</p>
+            <p>Greater in power and iudgement that he might take venge<g ref="char:EOLhyphen"/>ance of ſuch wretches as dare abuſe his ſa<g ref="char:EOLhyphen"/>cred maieſtie.</p>
+            <p>Therefore <hi>men veri<g ref="char:EOLhyphen"/>ly ſweare by him that is greater.</hi>
+            </p>
+            <p n="2">2 From this diuine
+<pb n="14" facs="tcp:15436:12"/> forme is deriued ſo ex<g ref="char:EOLhyphen"/>cellent an end of an Oath, that it makes an end of ſtrife <hi>A fon<g ref="char:EOLhyphen"/>te pietatis fluit rimus charitatis.</hi> And fit it is that ſo worthy a ſtreame ſhould flowe from ſuch a fountaine. For a greater teſtimo<g ref="char:EOLhyphen"/>nie of ſincere truth, nor a cleerer euidence of the moſt ſecret in<g ref="char:EOLhyphen"/>tentions cannot be giuen then is an Oath. Wherefore after that this witnes hath once ſpoken, after that this obligation is once ſub<g ref="char:EOLhyphen"/>ſcribed by laying the
+<pb n="15" facs="tcp:15436:12"/> hand vpon the booke, and ſealed by kiſſing of the ſame, it were a great indignitie offred to that diuine Maie<g ref="char:EOLhyphen"/>ſtie, once to call in que<g ref="char:EOLhyphen"/>ſtion, or to moue con<g ref="char:EOLhyphen"/>tention about that which a lawfull Oath hath before deter<g ref="char:EOLhyphen"/>mined.</p>
+            <p>An indignitie I ſay, ſeeing the God of truth hath vouchſafed himſelfe to interpoſe as a witneſſe of ſince<g ref="char:EOLhyphen"/>ritie, and a reuenger of periurie.</p>
+            <p>Let an oath there<g ref="char:EOLhyphen"/>fore bee an end of all
+<pb n="16" facs="tcp:15436:13"/> ſtrife amongſt vs, I pray God it may, and God forbid but it ſhould.</p>
+            <p>Wherefore (Right-worſhipfull and be<g ref="char:EOLhyphen"/>loued) ſeeing my fin<g ref="char:EOLhyphen"/>ger is now vpon the ſore, giue me leaue to touch it a little to the quicke. If any aske what I haue to doe to intermedle; Let this be mine <hi>Apologie.</hi> Firſt my profeſſion bindeth mee to be a peacemaker amongſt you being of the Companie aſſembled within my cure. As in
+<pb n="17" facs="tcp:15436:13"/> generall I began the laſt yeare.</p>
+            <p>Next I muſt euer acknowledge this Companie my wor<g ref="char:EOLhyphen"/>thy Patrons, And my ſelfe alſo by further fauours to bee an vn<g ref="char:EOLhyphen"/>worthy member of the ſame. And there<g ref="char:EOLhyphen"/>by alſo doe I ſtand ob<g ref="char:EOLhyphen"/>liged for the reſoluing of your conſciences in this point of ſcruple, and for the faſter knit<g ref="char:EOLhyphen"/>ting of you vp in the band of peace.</p>
+            <p>Vnderſtand there<g ref="char:EOLhyphen"/>fore, that there be two kinde of Oathes, the
+<pb n="18" facs="tcp:15436:14"/> one is aſſertorie, and the other promiſo<g ref="char:EOLhyphen"/>rie.</p>
+            <p>The Oath of aſſeue<g ref="char:EOLhyphen"/>ration by which the truth of any thing paſt or preſent is auerred muſt needs be kept by ſuch as haue any con<g ref="char:EOLhyphen"/>ſcience at all. The rea<g ref="char:EOLhyphen"/>ſon is, becauſe the breach thereof falleth directly, whollie, and all at once vpon the Conſcience, and ther<g ref="char:EOLhyphen"/>by becommeth moſt ſenſible.</p>
+            <p n="2">2 But an oath of pro<g ref="char:EOLhyphen"/>miſe being once paſt, is in time forgotten, as
+<pb n="19" facs="tcp:15436:14"/> if the binding power thereof did by little and little weare away, which though it bee not ſo in truth, but on<g ref="char:EOLhyphen"/>ly in the error of our obliuious nature, yet is this the moſt chari<g ref="char:EOLhyphen"/>table reaſon that can be rendred, of the too too much neglect of Oathes in this Cittie. Yet is this the Oath which is to bee inten<g ref="char:EOLhyphen"/>ded in this buſineſſe, and which is mentio<g ref="char:EOLhyphen"/>ned in this Scripture, for in the 13. Verſe be<g ref="char:EOLhyphen"/>fore my text, it is ſaid. <hi>When God made the pro<g ref="char:EOLhyphen"/>miſe
+<pb n="20" facs="tcp:15436:15"/> vnto Abraham hauing no greater to ſweare by, he ſware by himſelfe.</hi> This is that Oath which you haue ſolemnly taken, where<g ref="char:EOLhyphen"/>in you haue pawned the ſacred Maieſtie of God, that you will faithfully keepe your promiſe, by laying hand vpon the booke, and kiſſing the ſame. Wherein if at any time hereafter you ſhall faile, you haue forfeited that intereſt, which you haue in that Maieſtie by the bond of thoſe words.
+<pb n="21" facs="tcp:15436:15"/> 
+               <hi>So help you God.</hi>
+            </p>
+            <p>Now the Queſtion is no more but this.</p>
+            <p>A Cittizen hath vn<g ref="char:EOLhyphen"/>dertaken a double Oath.</p>
+            <p n="1">1 As Freeman of the Cittie he ſweareth <hi>To be obeiſant and obedient to the Maior and the Miniſters of this Cittie. To maintaine the fran<g ref="char:EOLhyphen"/>chiſes and Cuſtomes thereof. This Cittie to keepe harmeleſſe in that him lieth. Yo bee con<g ref="char:EOLhyphen"/>tributorie to all manner of charges &amp;c<g ref="char:punc">▪</g> bearing</hi>
+               <pb n="22" facs="tcp:15436:16"/> 
+               <hi>part as a freeman ought.</hi>
+            </p>
+            <p n="2">2 As a member of this fellowſhip he hath likewiſe ſworne.</p>
+            <p>
+               <hi>Truly to obay all man<g ref="char:EOLhyphen"/>ner of rules, impoſiti<g ref="char:EOLhyphen"/>ons and ordinances that be made, or hereafter ſhall be made and lawful<g ref="char:EOLhyphen"/>ly ordained for the or<g ref="char:EOLhyphen"/>dering of the ſaid fel<g ref="char:EOLhyphen"/>lowſhip.</hi>
+            </p>
+            <p>Whether this man thus obliged may in<g ref="char:EOLhyphen"/>deauour or conſent not to diſorder, but to diſmember this fellowſhip, by the ſeparation of himſelfe
+<pb n="23" facs="tcp:15436:16"/> and others from the ſame.</p>
+            <p>Whether hee may labour to bee freed from thoſe charges to which he hath ſworne to be contributory.</p>
+            <p>Whether by this preſident of <hi>Innouati<g ref="char:EOLhyphen"/>on,</hi> to incourage other Companies vpon the like pretence to at<g ref="char:EOLhyphen"/>tempt the ſame: be to obay the gouernours, to maintaine and keep this Cittie harmeleſſe to his power.</p>
+            <p>I will not ſit Iudge
+<pb n="24" facs="tcp:15436:17"/> or determine vpon a<g ref="char:EOLhyphen"/>ny mans conſcience, but only lay open the Queſtion in ſuch man<g ref="char:EOLhyphen"/>ner, as euery man in his conſcience may be his owne Iudge.</p>
+            <p>There be two points without compaſſe of this queſtion.</p>
+            <p n="1">1 That thoſe who haue not taken this Oath may vpon iuſt cauſe ſeeke: and that authoritie in the Eye to a more publike good may command a ſeperation, we call it not into queſtion. For this is their act and
+<pb n="25" facs="tcp:15436:17"/> not thine, and there<g ref="char:EOLhyphen"/>fore concerneth not this point.</p>
+            <p n="2">2 It is not denied but a Company may be imagined ſo appa<g ref="char:EOLhyphen"/>rantly peſtilent to the common wealth; ſo tyrannicall and bur<g ref="char:EOLhyphen"/>denſome to the ſworn members of the ſame, as they may lawfully deſire and endeauour a redreſſe, and for want of that a ſepera<g ref="char:EOLhyphen"/>tion, for they are ſworne onely to that which is lawfull. But this is farre from our
+<pb n="26" facs="tcp:15436:18"/> point, I finde it not obiected.</p>
+            <p>What then might be the motiue <hi>The Re<g ref="char:EOLhyphen"/>formation of Abuſes.</hi>
+            </p>
+            <p>Beloued, this word <hi>Reformation</hi> is a good word: but it hath guilt many a rotten peece of wood.</p>
+            <p>For what Faction or Schiſme euer en<g ref="char:EOLhyphen"/>tered into Church, what rebellion or in<g ref="char:EOLhyphen"/>ſurrection euer began in Common-wealth, which masked not vn<g ref="char:EOLhyphen"/>der a pretence of <hi>Re<g ref="char:EOLhyphen"/>formation?</hi>
+            </p>
+            <p>Abuſes there are,
+<pb n="27" facs="tcp:15436:18"/> &amp; euer wil be, though a new Companie ſhould drop from the clouds. And a refor<g ref="char:EOLhyphen"/>mation of abuſes is euermore to be deſi<g ref="char:EOLhyphen"/>red.</p>
+            <p>But firſt. Is there no meanes of refor<g ref="char:EOLhyphen"/>mation already eſta<g ref="char:EOLhyphen"/>bliſhed equiualent to that which is deſired?</p>
+            <p>If not. May no meanes bee thought vpon, by ioint ſute to be obtained, without ſuch innouation and ſeparation?</p>
+            <p>If not. Is all this cleere, or is it queſti<g ref="char:EOLhyphen"/>onable
+<pb n="28" facs="tcp:15436:19"/> and doubtfull, and as yet vndetermi<g ref="char:EOLhyphen"/>ned?</p>
+            <p>If it be but queſti<g ref="char:EOLhyphen"/>onable, then make this a <hi>Quaere.</hi>
+            </p>
+            <p>Whether ſuch a ſcruple ariſing in thy minde, or ſuggeſted by others, may diſ<g ref="char:EOLhyphen"/>pence with any bra<g ref="char:cmbAbbrStroke">̄</g>ch of a ſolemne Oath which is cleere and without queſtion? Lay thine Oath then in one Scoale with all the waights that ther<g ref="char:EOLhyphen"/>unto belongeth, as hath beene deliuered: and let thy conſcience
+<pb n="29" facs="tcp:15436:19"/> bee an indifferent Iudge, whether a ſcru<g ref="char:EOLhyphen"/>ple remaining as yet queſtionable may o<g ref="char:EOLhyphen"/>uer-ballance the ſame?</p>
+            <p>Let mee propound two places of Scrip<g ref="char:EOLhyphen"/>ture vnto you, the one as a precept, the other by way of ex<g ref="char:EOLhyphen"/>ample, both concer<g ref="char:EOLhyphen"/>ning the validitie of a promiſſarie Oath.</p>
+            <p n="1">1 In the 15. Pſalme, the queſtion is, <hi>Who ſhall dwell in Gods Ta<g ref="char:EOLhyphen"/>bernacle, or reſt vpon his holy hill?</hi> That is, Who ſhall be a liue<g ref="char:EOLhyphen"/>ly member of the
+<pb n="30" facs="tcp:15436:20"/> Church militant on earth, or enter into eternall reſt in hea<g ref="char:EOLhyphen"/>uen? One maine branch of the anſwer is at the fifth verſe, <hi>He that ſweareth to his neighbour, and diſap<g ref="char:EOLhyphen"/>pointeth him not, and though it be to his owne hinderance.</hi> As it is the publike good which is pretended, ſo let our caueat be, what is in<g ref="char:EOLhyphen"/>tended in this at<g ref="char:EOLhyphen"/>tempt. It is the zeale of ſome publike good which conſumeth vs in this buſineſſe? Or is it the hope of ſome
+<pb n="31" facs="tcp:15436:20"/> aduantage or ſuppo<g ref="char:EOLhyphen"/>ſed dignitie, ſome pro<g ref="char:EOLhyphen"/>fit, or expected liber<g ref="char:EOLhyphen"/>tie vnto our ſelues, which putteth fire vnto vs? Remember this is not a priuate oath twixt neighbour &amp; neighbour, where<g ref="char:EOLhyphen"/>of the <hi>Pſalmiſt</hi> ſpea<g ref="char:EOLhyphen"/>keth, but publike and ſolemne, and ſo much the more obligatorie. The breach thereof is directly againſt hea<g ref="char:EOLhyphen"/>uen and earth. And the ſcandalous exam<g ref="char:EOLhyphen"/>ple of that breach may extend to all the Companies of this
+<pb n="32" facs="tcp:15436:21"/> Citie, as a motiue for the ſlacking of their Oathes.</p>
+            <p>Therfore whatſoeuer aduantage, liberty, or dignitie may accrue thereby, keepe thine oath intire, though it be to thine owne hin<g ref="char:EOLhyphen"/>derance. If thou mean to dwell in Gods Ta<g ref="char:EOLhyphen"/>bernacle on earth, or to reſt vpon his holy hill in heauen: for the anchor of that hope lieth at pawne.</p>
+            <p n="2">2. An example we haue, <hi>Ioſ.</hi> 9. 18. where the children of <hi>Iſrael</hi> miſtaking the <hi>Gibeo<g ref="char:EOLhyphen"/>nites</hi>
+               <pb n="33" facs="tcp:15436:21"/> for farre ſtran<g ref="char:EOLhyphen"/>gers, who indeede were their neighbors, did make a league with them, and con<g ref="char:EOLhyphen"/>firmed the ſame by ſolemne Oath.</p>
+            <p n="1">1. This was an oath againſt the Law of God, <hi>Deuteron.</hi> 7. 2. <hi>Thou ſhalt not make a Couenant with them, nor haue compaſsion on them.</hi>
+            </p>
+            <p n="2">2. It was an Oath raſhly taken by the Princes, in that they asked not counſell at the mouth of God, but ſuffered them<g ref="char:EOLhyphen"/>ſelues to be deluded
+<pb n="34" facs="tcp:15436:22"/> by their old apparell, their patched bottles, their clouted ſhooes, and mouldie bread.</p>
+            <p n="3">3. It was an Oath guilefully giuen by the <hi>Gibeonites, Dolus perſonarum,</hi> a miſta<g ref="char:EOLhyphen"/>king of the perſons themſelues to whom they ſware.</p>
+            <p>Notwithſtanding all this, the Princes of the people that ſware, durſt not ſatisfie the people in breaking their Oath.</p>
+            <p>
+               <hi>Saul</hi> afterwards did breake it in ſlaying the <hi>Gibeonites,</hi> a long
+<pb n="35" facs="tcp:15436:22"/> time after, when time might ſeeme to haue worne out the ſenſe of it, 2. <hi>Sam.</hi> 21. 1.</p>
+            <p>Heereupon God ſent three yeeres fa<g ref="char:EOLhyphen"/>mine. <hi>Dauid</hi> inquireth of the cauſe of that famine. God anſwe<g ref="char:EOLhyphen"/>reth, <hi>It was Saul and his bloudie houſe for kil<g ref="char:EOLhyphen"/>ling the Gibeonites, to whom the children of Iſ<g ref="char:EOLhyphen"/>rael had ſworne.</hi> And beſides this, for fur<g ref="char:EOLhyphen"/>ther ſatisfaction, the ſeuen ſonnes of <hi>Saul</hi> were hanged vp in the mountaine before the Lord.</p>
+            <pb n="36" facs="tcp:15436:23"/>
+            <p> Obſerue therefore, that this being a raſh, guilefull, and vnlaw<g ref="char:EOLhyphen"/>full oath, had no bin<g ref="char:EOLhyphen"/>ding power in it ſelfe: yet ſeeing the name of the God of <hi>Iſrael</hi> was pawned by his people, it pleaſed God rather to diſpence with his owne Law, then with their Oath, in regard of ſcan<g ref="char:EOLhyphen"/>dall amongſt Heathen people, that they might not ſay, <hi>Iſrael</hi> made light account of the name of their God.</p>
+            <p>Beloued, this Oath
+<pb n="37" facs="tcp:15436:23"/> of yours is no vnlaw<g ref="char:EOLhyphen"/>full Oath, but appro<g ref="char:EOLhyphen"/>ued of all. It is no raſh Oath. If it were you ſhould not only con<g ref="char:EOLhyphen"/>demne your ſelues, but an infinite num<g ref="char:EOLhyphen"/>ber beſides for taking the ſame.</p>
+            <p>It is no deceitfull Oath. The words are plaine and ſimple. Let mee adde further: It is not the Oath of Princes to their ſlaues appointed to the ſlaughter, as the <hi>Gi<g ref="char:EOLhyphen"/>beonites</hi> were, but of the members of a fel<g ref="char:EOLhyphen"/>lowſhip and incorpo<g ref="char:EOLhyphen"/>ration.
+<pb n="38" facs="tcp:15436:24"/> It is not ſin<g ref="char:EOLhyphen"/>gle, but doubled, dou<g ref="char:EOLhyphen"/>bled with ſolemnitie to this Companie, to this Citie.</p>
+            <p>Now if wee were but men, Heathen men that knew not the true God: yet he that ſhall breake ſuch an Oath, ſhall not only loſe his credit for euer amongſt men, <hi>etiamſi per plures Deos iuret,</hi> but vengeance alſo fro<g ref="char:cmbAbbrStroke">̄</g> aboue would follow him, as the wiſe <note place="margin">
+                  <hi>Wiſd.</hi> 14. 30.</note> man auerreth. Not by any power in the Idols, by whom the
+<pb n="39" facs="tcp:15436:24"/> Heathen ſweare, but becauſe in euery falſe religion there is ſome truth intwined by the vertue of that truth, the vengeance of that diuine power which is acknowledged by Idolaters, ſhall follow periured perſons.</p>
+            <p>But wee are Chri<g ref="char:EOLhyphen"/>ſtians, worſhipping the true God and Sa<g ref="char:EOLhyphen"/>uiour of the world. This obligation then is doubled vpon vs: and what will pro<g ref="char:EOLhyphen"/>phane perſons obiect if we breake it?</p>
+            <p>Wee profeſſe our
+<pb n="40" facs="tcp:15436:25"/> ſelues profeſſors of the Goſpell of Chriſt, and worſhippers of the true God truly. What will our aduerſaries in this profeſſion ſay, when they ſhall ſee vs paſſe ouer theſe di<g ref="char:EOLhyphen"/>uine bonds as matter of meere formalitie? I will tell you what they doe ſay; That our Fore-fathers in this Land vnder their Religion were faſter tied by their bare word and promiſe, then <hi>Proteſtants</hi> at this day by their moſt ſo<g ref="char:EOLhyphen"/>lemne Oathes.</p>
+            <pb n="41" facs="tcp:15436:25"/>
+            <p> If they ſhall inferre this <hi>à non cauſa, pro cauſa,</hi> imputing it to our Religion, it is well knowne wee can ea<g ref="char:EOLhyphen"/>ſily quit them with their owne. But in ſome men of our Re<g ref="char:EOLhyphen"/>ligion wee muſt con<g ref="char:EOLhyphen"/>feſſe it is inexcuſable. Come we then to our generall concluſion.</p>
+            <p>If there be any Free<g ref="char:EOLhyphen"/>man of this Citie, member of this Com<g ref="char:EOLhyphen"/>panie, who doth or ſhall deſire not to bee ſubiect to ſuch lawfull ordinances as hee is formerly ſworne vn<g ref="char:EOLhyphen"/>to;
+<pb n="42" facs="tcp:15436:26"/> or ſhall endeuour or giue co<g ref="char:cmbAbbrStroke">̄</g>ſent to thoſe that ſhall endeuour for any ſuch innoua<g ref="char:EOLhyphen"/>tion or ſeparation as may proue dange<g ref="char:EOLhyphen"/>rous either to the ſha<g ref="char:EOLhyphen"/>king of this Cittie go<g ref="char:EOLhyphen"/>uernment, or the weakening of this pre<g ref="char:EOLhyphen"/>ſent Companie.</p>
+            <p>Before that ſuch a one proceede any fur<g ref="char:EOLhyphen"/>ther, Let him lay his hand vpon his heart, &amp; ſeriouſly conſider the binding power of a ſolemne promiſſorie Oath in generall as hath beene deliuered,
+<pb n="43" facs="tcp:15436:26"/> together with the con<g ref="char:EOLhyphen"/>tents of his double oath in particular; Next let him ſee what warrant he hath either vpon hope of any dig<g ref="char:EOLhyphen"/>nitie, libertie, or ad<g ref="char:EOLhyphen"/>uantage to himſelfe in priuate, Or vpon any ſcruple ariſing in him, or ſuggeſted by others for the publique, to croſſe any branch of either Oath: Or what power can diſpence with his conſcience in this caſe<g ref="char:punc">▪</g> the ſubiect of his Oath remaining as it doth.</p>
+            <p>It is cleere thy Oath
+<pb n="44" facs="tcp:15436:27"/> doth not binde thee from ſeeking the re<g ref="char:EOLhyphen"/>dreſſe and reformati<g ref="char:EOLhyphen"/>on of any abuſe with<g ref="char:EOLhyphen"/>in thy calling whatſo<g ref="char:EOLhyphen"/>euer, God forbidde it ſhould, Neither doth it forbid thee to ad<g ref="char:EOLhyphen"/>uice in thy place about the meanes of refor<g ref="char:EOLhyphen"/>mation; Onely ab<g ref="char:EOLhyphen"/>ſtain from that meanes which ſhall tranſgreſſe any part of thine Oath.</p>
+            <p>If there bee no meanes of reformati<g ref="char:EOLhyphen"/>on either already eſta<g ref="char:EOLhyphen"/>bliſhed, or to bee ob<g ref="char:EOLhyphen"/>tained, but ſuch: Let
+<pb n="45" facs="tcp:15436:27"/> that be the act of au<g ref="char:EOLhyphen"/>thority, the inuention of ſuperiours and not thine, Let it be their determination, rather then thy ſeeking. Touch not thine Oath. Remember how farre thou art obliged before by a diuine bond, and thou maieſt not play faſt and looſe with the eternall God. Hee is that greater in my text by whom we ſweare, and an Oath ought to bee the end of all ſtrife a<g ref="char:EOLhyphen"/>mongſt men, in pri<g ref="char:EOLhyphen"/>uate ſocieties, in Com<g ref="char:EOLhyphen"/>panies,
+<pb n="46" facs="tcp:15436:28"/> in Citties, and in kingdomes. Bee it farre from vs then to contend or ſtriue a<g ref="char:EOLhyphen"/>gainſt any branch of our Oath, leaſt wee ſeeme to ſtriue againſt God. And then ſhall we kicke againſt the prickes, to the woun<g ref="char:EOLhyphen"/>ding of our ſelues, our ſoules and conſci<g ref="char:EOLhyphen"/>ences for euer.</p>
+            <p>Of which Con<g ref="char:EOLhyphen"/>ſcience as of a moſt precious Iewell, that euery one of vs may haue a tender care, to<g ref="char:EOLhyphen"/>gether with a moſt holy Reuerence of
+<pb n="47" facs="tcp:15436:28"/> Gods moſt glorious name in theſe ſacred couenants and celeſti<g ref="char:EOLhyphen"/>all bonds, hee giue grace who is the foun<g ref="char:EOLhyphen"/>taine of all Graces, Ieſus Chriſt, to whom with the Father and bleſſed ſpirit, three perſons and one God, be all praiſe and glory.</p>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+   </text>
+</TEI>
